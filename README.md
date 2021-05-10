@@ -1,7 +1,7 @@
 # pyna
 Learning to track my code
 # pyna (Lab_2)
-
+I want to learn how to version control projects with git.
 I am trying to put in some text that I can later pull into VIM.
 
 ## Getting Started
